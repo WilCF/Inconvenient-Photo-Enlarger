@@ -1,6 +1,3 @@
-Sure, here is a good GitHub README file for the above code:
-
-
 # Image to TIFF Converter
 
 This repository contains a Python script that converts an image to TIFF format and resizes it until it reaches a minimum size.
